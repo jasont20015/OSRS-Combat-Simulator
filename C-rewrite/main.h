@@ -6,8 +6,8 @@
 #define C_REWRITE_MAIN_H
 
 #include <stdio.h>
-
 #include <stdlib.h>
+
 typedef struct Stat Stat;
 typedef struct Player Player;
 
